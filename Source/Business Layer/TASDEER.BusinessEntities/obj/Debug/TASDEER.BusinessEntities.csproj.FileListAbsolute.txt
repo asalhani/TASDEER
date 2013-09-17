@@ -1,0 +1,4 @@
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Business Layer\TASDEER.BusinessEntities\bin\Debug\TASDEER.BusinessEntities.dll
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Business Layer\TASDEER.BusinessEntities\bin\Debug\TASDEER.BusinessEntities.pdb
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Business Layer\TASDEER.BusinessEntities\obj\Debug\TASDEER.BusinessEntities.dll
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Business Layer\TASDEER.BusinessEntities\obj\Debug\TASDEER.BusinessEntities.pdb

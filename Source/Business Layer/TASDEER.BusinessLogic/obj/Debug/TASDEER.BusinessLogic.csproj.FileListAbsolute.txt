@@ -1,0 +1,4 @@
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Business Layer\TASDEER.BusinessLogic\bin\Debug\TASDEER.BusinessLogic.dll
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Business Layer\TASDEER.BusinessLogic\bin\Debug\TASDEER.BusinessLogic.pdb
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Business Layer\TASDEER.BusinessLogic\obj\Debug\TASDEER.BusinessLogic.dll
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Business Layer\TASDEER.BusinessLogic\obj\Debug\TASDEER.BusinessLogic.pdb

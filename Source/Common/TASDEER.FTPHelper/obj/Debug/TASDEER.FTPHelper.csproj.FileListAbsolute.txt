@@ -1,0 +1,4 @@
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Common\TASDEER.FTPHelper\bin\Debug\TASDEER.FTPHelper.dll
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Common\TASDEER.FTPHelper\bin\Debug\TASDEER.FTPHelper.pdb
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Common\TASDEER.FTPHelper\obj\Debug\TASDEER.FTPHelper.dll
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Common\TASDEER.FTPHelper\obj\Debug\TASDEER.FTPHelper.pdb

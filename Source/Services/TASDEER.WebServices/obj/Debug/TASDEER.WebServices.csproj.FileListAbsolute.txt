@@ -1,0 +1,5 @@
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Services\TASDEER.WebServices\bin\Debug\TASDEER.WebServices.dll.config
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Services\TASDEER.WebServices\bin\Debug\TASDEER.WebServices.dll
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Services\TASDEER.WebServices\bin\Debug\TASDEER.WebServices.pdb
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Services\TASDEER.WebServices\obj\Debug\TASDEER.WebServices.dll
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Services\TASDEER.WebServices\obj\Debug\TASDEER.WebServices.pdb

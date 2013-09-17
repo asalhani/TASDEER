@@ -1,0 +1,4 @@
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Data Access Layer\TASDEER.DataAccess\bin\Debug\TASDEER.DataAccess.dll
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Data Access Layer\TASDEER.DataAccess\bin\Debug\TASDEER.DataAccess.pdb
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Data Access Layer\TASDEER.DataAccess\obj\Debug\TASDEER.DataAccess.dll
+C:\Users\Adeeb\Dropbox\#WORKFLOW PRJECTS WITH SHARAF\Source\TASDEER\Data Access Layer\TASDEER.DataAccess\obj\Debug\TASDEER.DataAccess.pdb
